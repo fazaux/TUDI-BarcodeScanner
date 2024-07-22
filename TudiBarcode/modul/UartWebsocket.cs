@@ -17,14 +17,16 @@ namespace TudiBarcode.modul
         private static HttpListener _server;
         public static WebSocket _webSocket;
         private static bool _isOnProcess = false;
+        public static string socketUrl = "localhost:8080/";
 
 
         public static async Task StartServer()
         {
             _server = new HttpListener();
-            _server.Prefixes.Add("http://localhost:8383/");
+            _server.Prefixes.Add("http://"+socketUrl);
             _server.Start();
-            Console.WriteLine("Server started");
+            Console.WriteLine("Server started on : http://" + socketUrl);
+
             while (true)
             {
                 var context = await _server.GetContextAsync();

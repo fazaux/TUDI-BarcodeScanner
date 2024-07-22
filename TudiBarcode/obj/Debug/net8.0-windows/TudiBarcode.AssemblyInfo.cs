@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TudiBarcode")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0e7c1b797a8244c7724ae0a46bc6d98940456a09")]
 [assembly: System.Reflection.AssemblyProductAttribute("TudiBarcode")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TudiBarcode")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

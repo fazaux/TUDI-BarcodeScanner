@@ -13,6 +13,8 @@ namespace TudiBarcode
 
             UpdateBaudRateValue();
             UpdatePortNameValue();
+
+            richTextBoxUiConsole.AppendText($"Weboskcet server is running on ws:/{UartWebsocket.socketUrl}\n");
         }
 
         private void Form1_Load(object sender, EventArgs e)

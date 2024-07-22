@@ -25,3 +25,4 @@ C:\Users\Administrator\Desktop\playground\TudiBarcode\TudiBarcode\obj\Debug\net8
 C:\Users\Administrator\Desktop\playground\TudiBarcode\TudiBarcode\obj\Debug\net8.0-windows\TudiBarcode.pdb
 C:\Users\Administrator\Desktop\playground\TudiBarcode\TudiBarcode\obj\Debug\net8.0-windows\TudiBarcode.genruntimeconfig.cache
 C:\Users\Administrator\Desktop\playground\TudiBarcode\TudiBarcode\obj\Debug\net8.0-windows\ref\TudiBarcode.dll
+C:\Users\Administrator\Desktop\playground\TudiBarcode\TudiBarcode\obj\Debug\net8.0-windows\TudiBarcode.sourcelink.json
